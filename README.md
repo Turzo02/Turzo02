@@ -2,7 +2,7 @@
 
 ## 💼 Frontend Web Developer
 
-<img src="https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png" alt="Banner" width="100%" />
+![Header](https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
 
 ## 🧑‍💻 About Me
 
