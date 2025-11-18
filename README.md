@@ -1,8 +1,8 @@
-# 👋 Hi, I'm TurzO!
-
-## 💼 Frontend Web Developer
-
 ![Header](https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
+<h1 align="center">Hi 👋, I'm Turzo</h1>
+<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+
+
 
 ## 🧑‍💻 About Me
 
@@ -20,12 +20,7 @@ I'm always curious about new technologies and enjoy improving my craft through c
 - Improving my UI/UX skills and experimenting with new design concepts
 
 
-
-
-## 🛠️ Skills
-
-
-
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
@@ -44,6 +39,9 @@ I'm always curious about new technologies and enjoy improving my craft through c
 
 
 
+
+
+
 ## 🔗 Connect With Me
 
 * [Facebook](https://www.facebook.com/SyeDTurz0)
@@ -53,12 +51,23 @@ I'm always curious about new technologies and enjoy improving my craft through c
 
 
 
-## 📊 GitHub Stats
+<!-- Top Languages -->
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180px"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+<!-- GitHub Stats -->
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="200px"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername\&theme=tokyonight)
 
 
