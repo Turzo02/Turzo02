@@ -2,7 +2,8 @@
 
 ## 💼 Frontend Web Developer
 
-![Banner](https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
+
+https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png
 
 
 
