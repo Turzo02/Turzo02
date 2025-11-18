@@ -46,9 +46,11 @@ I'm always curious about new technologies and enjoy improving my craft through c
 
 ## 🔗 Connect With Me
 
-* [Facebook](https://facebook.com/yourprofile)
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [GitHub](https://github.com/yourusername)
+* [Facebook](https://www.facebook.com/SyeDTurz0)
+* [GitHub](https://github.com/Turzo02)
+* [Codepen](https://codepen.io/Turzo_02)
+* [Css Battle](https://cssbattle.dev/player/syed_turzo)
+
 
 
 ## 📊 GitHub Stats
