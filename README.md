@@ -1,27 +1,30 @@
-![Header](https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
+![Header](https://i.ibb.co/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
+
 <h1 align="center">Hi 👋, I'm Turzo</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 
-
+---
 
 ## 🧑‍💻 About Me
 
 I'm a frontend-focused web developer currently learning backend technologies.  
 I love building interactive, responsive, and user-friendly web applications.  
-I'm always curious about new technologies and enjoy improving my craft through continuous learning.
+Always curious about new technologies, I enjoy improving my craft through continuous learning.
 
-
+---
 
 ## 🔍 Current Activities
 
-- Exploring **Framer Motion, Swiper.js, and GSAP**
-- Working on the **Zap Shift Website** project
-- Learning the fundamentals of backend development
-- Improving my UI/UX skills and experimenting with new design concepts
+- Exploring **Framer Motion, Swiper.js, and GSAP**  
+- Working on the **Zap Shift Website** project  
+- Learning the fundamentals of backend development  
+- Improving UI/UX skills and experimenting with new design concepts
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
+## 🛠️ Languages & Tools
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
@@ -37,37 +40,22 @@ I'm always curious about new technologies and enjoy improving my craft through c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
 </p>
 
-
-
-
-
+---
 
 ## 🔗 Connect With Me
 
-* [Facebook](https://www.facebook.com/SyeDTurz0)
-* [GitHub](https://github.com/Turzo02)
-* [Codepen](https://codepen.io/Turzo_02)
-* [Css Battle](https://cssbattle.dev/player/syed_turzo)
-
-
-
-<!-- Top Languages -->
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180px"
-  />
+  <a href="https://www.facebook.com/SyeDTurz0">Facebook</a> •
+  <a href="https://github.com/Turzo02">GitHub</a> •
+  <a href="https://codepen.io/Turzo_02">CodePen</a> •
+  <a href="https://cssbattle.dev/player/syed_turzo">CSS Battle</a>
 </p>
 
-<!-- GitHub Stats -->
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="200px"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
-
-
-
