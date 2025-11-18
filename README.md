@@ -2,15 +2,14 @@
 
 ## 💼 Frontend Web Developer
 
-![Banner](https://your-banner-image-url-here.com/banner.png)
+![Banner](https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
 
----
+
 
 ## 🧑‍💻 About Me
 
 I'm a frontend-focused web developer currently learning backend technologies. I love building interactive, responsive, and user-friendly web applications. I'm always curious about new technologies and enjoy improving my craft through continuous learning.
 
----
 
 ## 🔍 Current Activities
 
@@ -19,7 +18,7 @@ I'm a frontend-focused web developer currently learning backend technologies. I 
 * Learning the basics of backend development
 * Enhancing UI/UX skills and experimenting with new design concepts
 
----
+
 
 ## 🛠️ Skills
 
@@ -32,7 +31,6 @@ I'm a frontend-focused web developer currently learning backend technologies. I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px" />
 </p>
 
----
 
 ## 🔗 Connect With Me
 
@@ -40,7 +38,6 @@ I'm a frontend-focused web developer currently learning backend technologies. I 
 * [LinkedIn](https://linkedin.com/in/yourprofile)
 * [GitHub](https://github.com/yourusername)
 
----
 
 ## 📊 GitHub Stats
 
@@ -50,6 +47,4 @@ I'm a frontend-focused web developer currently learning backend technologies. I 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername\&theme=tokyonight)
 
----
 
-*Replace all placeholder URLs (banner, social links, username) with your real information.*
