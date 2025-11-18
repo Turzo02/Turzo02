@@ -14,10 +14,11 @@ I'm always curious about new technologies and enjoy improving my craft through c
 
 ## 🔍 Current Activities
 
-* Exploring **Next.js**
-* Working on a **tourism website** project
-* Learning the basics of backend development
-* Enhancing UI/UX skills and experimenting with new design concepts
+- Exploring **Framer Motion, Swiper.js, and GSAP**
+- Working on the **Zap Shift Website** project
+- Learning the fundamentals of backend development
+- Improving my UI/UX skills and experimenting with new design concepts
+
 
 
 
