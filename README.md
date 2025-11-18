@@ -2,14 +2,14 @@
 
 ## 💼 Frontend Web Developer
 
-
-https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png
-
-
+<img src="https://i.ibb.co.com/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png" alt="Banner" width="100%" />
 
 ## 🧑‍💻 About Me
 
-I'm a frontend-focused web developer currently learning backend technologies. I love building interactive, responsive, and user-friendly web applications. I'm always curious about new technologies and enjoy improving my craft through continuous learning.
+I'm a frontend-focused web developer currently learning backend technologies.  
+I love building interactive, responsive, and user-friendly web applications.  
+I'm always curious about new technologies and enjoy improving my craft through continuous learning.
+
 
 
 ## 🔍 Current Activities
