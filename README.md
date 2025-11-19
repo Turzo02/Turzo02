@@ -1,7 +1,7 @@
 ![Header](https://i.ibb.co/CKZKXNvQ/Banner-upscayl-3x-digital-art-4x.png)
 
 <h1 align="center">Hi 👋, I'm Turzo</h1>
-<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Web Developer</h3>
 
 ---
 
