@@ -49,7 +49,7 @@ Always curious about new technologies, I enjoy improving my craft through contin
   <a href="https://www.facebook.com/SyeDTurz0">Facebook</a> •
   <a href="https://github.com/Turzo02">GitHub</a> •
   <a href="https://codepen.io/Turzo_02">CodePen</a> •
-  <a href="https://cssbattle.dev/player/syed_turzo">CSS Battle</a>
+  <a href="https://cssbattle.dev/player/syed_turzo">CSS Battle</a>. 
     <a href="https://www.linkedin.com/in/syed-turzo/">LinkedIn</a>
 </p>
 
