@@ -13,12 +13,13 @@ Always curious about new technologies, I enjoy improving my craft through contin
 
 ---
 
-## 🔍 Current Activities
+## 🔍 Current Activities 
 
-- Exploring **Framer Motion, Swiper.js, and GSAP**  
-- Working on the **Zap Shift Website** project  
-- Learning the fundamentals of backend development  
-- Improving UI/UX skills and experimenting with new design concepts
+- Messing around with animations using **Framer Motion, Swiper.js, and GSAP**
+- Working on the **Ticket Zone website**
+- Learning **Next.js** step by step
+- Getting into the basics of backend development
+- Improving my UI/UX skills and trying out new design ideas
 
 ---
 
