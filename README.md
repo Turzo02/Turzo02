@@ -58,6 +58,6 @@ Always curious about new technologies, I enjoy improving my craft through contin
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
