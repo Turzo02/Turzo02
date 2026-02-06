@@ -16,7 +16,7 @@ Always curious about new technologies, I enjoy improving my craft through contin
 ## 🔍 Current Activities 
 
 - Messing around with animations using **Framer Motion, Swiper.js, and GSAP**
-- Working on the **Ticket Zone website**
+- Working on the **Workers website**
 - Learning **Next.js** step by step
 - Getting into the basics of backend development
 - Improving my UI/UX skills and trying out new design ideas
