@@ -1,100 +1,245 @@
-<h1 align="center">Hi 👋, I'm Turzo</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TURZO • GITHUB PROFILE                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <b>Tech Enthusiast • Builder • Problem Solver</b>
+<div align="center">
+
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋%20I'm%20Turzo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Tech%20Enthusiast%20•%20Builder%20•%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- Typing SVG -->
+<a href="https://github.com/turzo02">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+space+%F0%9F%9A%80;I+build+things+that+actually+solve+problems.;Learning+by+building+%E2%80%94+not+just+watching.;Always+improving%2C+always+shipping." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://github.com/turzo02">
+    <img src="https://img.shields.io/badge/GitHub-turzo02-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=turzo02&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-2c5364?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a student and tech enthusiast who enjoys learning new things, building useful projects, and finding ways to solve everyday problems with technology.
-
-I like experimenting with different tools, exploring new ideas, and turning simple concepts into something that actually works.
-
-I'm always trying to improve my skills, make my work more productive, and learn from every project I build.
+</div>
 
 ---
 
-## 💡 What I Like
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-* 🛠️ Building useful and practical projects
-* 🧩 Solving problems with technology
-* 🤖 Exploring AI and new technologies
-* 🎨 Experimenting with UI and interactions
-* ⚡ Finding ways to improve productivity
-* 📚 Learning by building instead of only following tutorials
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+```ts
+const turzo = {
+  role: "Student • Tech Enthusiast • Builder",
+  mission: "Solve everyday problems with technology",
+  approach: "Learn by building — not just following tutorials",
+  currentlyExploring: ["Full-Stack Dev", "AI & Automation", "UI/UX"],
+  mindset: "Keep learning. Keep building. Keep improving. 🚀"
+};
+```
+
+I'm a student and tech enthusiast who loves turning simple ideas into things that **actually work**. I experiment with tools, explore new concepts, and constantly push myself to be more productive and skilled with every project.
 
 ---
 
-## 🚀 What I'm Working On
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WHAT I LIKE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-* Improving my web development skills
-* Exploring full-stack development
-* Learning more about AI and automation
-* Building small tools that solve real problems
-* Experimenting with new technologies and ideas
+## 💡 &nbsp;What I Like
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🛠️ Building **useful & practical** projects
+- 🧩 Solving problems with **technology**
+- 🤖 Exploring **AI** and new tech
+- 🎨 Experimenting with **UI & interactions**
+
+</td>
+<td width="50%" valign="top">
+
+- ⚡ Finding ways to improve **productivity**
+- 📚 Learning by **building**, not just watching
+- 🚀 Turning small ideas into **working products**
+- 🧠 Growing a little every single day
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Some Things I've Built
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      WHAT I'M WORKING ON                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;What I'm Working On
+
+<table>
+<tr>
+<td align="center" width="25%">🌐<br/><b>Web Dev</b><br/><sub>Leveling up skills</sub></td>
+<td align="center" width="25%">🧱<br/><b>Full-Stack</b><br/><sub>End-to-end apps</sub></td>
+<td align="center" width="25%">🤖<br/><b>AI & Automation</b><br/><sub>Smart tooling</sub></td>
+<td align="center" width="25%">🧰<br/><b>Small Tools</b><br/><sub>Real-world fixes</sub></td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          PROJECTS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔤 Bangla Kor
+> A Windows utility that converts **Banglish & English → বাংলা** with a single shortcut.
 
-A Windows utility that converts Banglish and English text into বাংলা with a single shortcut.
+Runs **100% offline** using a local AI model. Built to make Bangla typing faster & smoother.
 
-It runs completely offline using a local AI model and is designed to make Bangla typing faster and easier.
+**Tech Stack**
+`Python` `PyTorch` `CustomTkinter`
 
-**Tech:** Python, PyTorch, CustomTkinter
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎫 TicketZone
+> Full-stack ticket booking platform for multiple transport types.
 
-A full-stack ticket booking platform for different types of transportation.
+Auth, role-based dashboards, ticket management, booking, search & online payments.
 
-It includes authentication, role-based dashboards, ticket management, booking, search, and online payments.
+**Tech Stack**
+`React` `Tailwind` `Firebase` `Node` `Express` `MongoDB` `Stripe`
 
-**Tech:** React, Tailwind CSS, Firebase, Node.js, Express, MongoDB, Stripe
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 💼 Freelance Marketplace
+> A marketplace focused on job posting, browsing & seamless user experience.
 
+Features auth, CRUD operations, and a fully responsive UI.
 
-## 🏆 Achievements
+**Tech Stack**
+`React` `Firebase` `Tailwind` `Node` `Express` `MongoDB`
 
-* 🥉 **CSSBattle Global Rank: #329**
-* 🔤 Built and released **Bangla Kor**, an offline Banglish → বাংলা Windows utility
-* 🎫 Built a full-stack ticket booking platform
+</td>
+<td width="50%" valign="top">
 
----
+### 🎯 Always Building...
+> Currently experimenting with new ideas, tools, and small utilities.
 
-## 🧰 Technologies I Use
+New projects drop regularly — stay tuned. 👀
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma" />
-</p>
+**Tech Stack**
+`Curiosity` `Coffee` `Late Nights`
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>Keep learning. Keep building. Keep improving. 🚀</b>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ACHIEVEMENTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Highlight |
+|:--:|:--|:--|
+| 🥉 | **CSSBattle Global Rank** | **#329** worldwide |
+| 🔤 | **Bangla Kor** | Offline Banglish → বাংলা Windows app |
+| 🎫 | **TicketZone** | Full-stack booking platform |
+| 💼 | **Freelance Marketplace** | Full-stack MERN project |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧰 &nbsp;Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+**Tools & Others**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=turzo02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=turzo02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=turzo02&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=turzo02&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turzo02&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
+
+> 💡 **Tip:** Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          QUOTE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💭 "Build. Break. Learn. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Keep%20learning.%20Keep%20building.%20Keep%20improving.%20🚀&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+
+</div> 
