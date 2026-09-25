@@ -212,29 +212,11 @@ New projects drop regularly — stay tuned. 👀
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=turzo02&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true" alt="Activity Graph" width="95%" />
+
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SNAKE ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turzo02&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-</div>
-
-> 💡 **Tip:** Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          QUOTE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
